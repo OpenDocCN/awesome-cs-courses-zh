@@ -152,7 +152,7 @@
 +   [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
 +   [南京大学 NJU 计算机系 CS 课程资料](https://github.com/ZhangYikaii/NJUCS_Course_Material_JatHoiCheung)
 +   [中国科学院大学研一课程教材课件共享项目](https://github.com/lilujunai/UCAS-Course)
-+   [WHU课代表计划 - 武汉大学课程资料整理](https://github.com/openwhu/OpenWHU)
++   [WHU 课代表计划 - 武汉大学课程资料整理](https://github.com/openwhu/OpenWHU)
 +   [南京邮电大学计算机科学与技术专业历年考试资料](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams)
 +   [杭电的各种信息，学习资料以及生活经验等](https://github.com/FengGuanxi/HDU-Experience)
 +   [广东工业大学计算机学院课程攻略](https://github.com/brenner8023/gdut-course)
